@@ -82,6 +82,8 @@ Where `M` is the raw analog Hall sensor reading. Published over MQTT at 20Hz for
 | Linux laptop | MQTT broker + Python bridge server |
 | UR10e | Robot arm (ISO 9409-1-50-4-M6 mount) |
 
+More about the gripper: https://docs.google.com/document/d/11ORRFTWQD4MEVH4lIci75AOcohlwfsoFN2d4iKilZCc/edit?usp=sharing 
+
 ---
 
 ## Repository Structure
