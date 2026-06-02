@@ -14,8 +14,8 @@ import time
  
 
  
-ROBOFLOW_API_KEY = "X4VNgKBmSlWpGrFn9OAe"
-WORKSPACE_NAME = "yalamanchilivarshitha-gmail-com"
+ROBOFLOW_API_KEY = ""
+WORKSPACE_NAME = ""
 WORKFLOW_ID = "general-segmentation-api"
  
  
